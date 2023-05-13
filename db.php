@@ -1,7 +1,7 @@
 <?php
 
 $servername="sql313.epizy.com";
-$dbname = "epiz_34058699_Deezapp";
+$dbname = "epiz_34058699_cashapp";
 $username = "epiz_34058699";
 $password = "99HRmIRGb2";
 
